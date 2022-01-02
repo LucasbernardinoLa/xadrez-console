@@ -10,7 +10,7 @@
         public Peca(Tabuleiro tab, Cor cor)
         {
            posicao = null;
-           cor = cor;
+           Cor = cor;
            tab = tab;
            QteMovimentos = 0;
         }
